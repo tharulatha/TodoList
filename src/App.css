@@ -1,0 +1,34 @@
+.todo-container .add-btn{
+    background-color: rgb(77, 195, 157);
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin: 3px;
+
+}
+
+.todo-container input{
+    padding: 5px;
+}
+
+.delete-btn{
+    background-color: rgb(227, 39, 60);
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin: 3px;
+
+}
+
+.update-btn{
+    background-color: rgb(39, 55, 227);
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin: 3px;
+
+
+}
